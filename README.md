@@ -35,4 +35,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/yarasuharsha/Leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/yarasuharsha/Leetcode/tree/master/0771-jewels-and-stones) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/yarasuharsha/Leetcode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
