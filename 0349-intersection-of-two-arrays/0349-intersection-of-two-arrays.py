@@ -7,8 +7,7 @@ class Solution(object):
         """
         arr=[]
         for i in range(len(nums1)):
-            for j in range(len(nums2)):
-                if(nums1[i]==nums2[j]):
-                    if(nums2[j] not in arr):
-                        arr.append(nums2[j])
+           if nums1[i] in nums2:
+            if nums1[i] not in arr:
+                arr.append(nums1[i])
         return arr
