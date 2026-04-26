@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0344-reverse-string](https://github.com/yarasuharsha/Leetcode/tree/master/0344-reverse-string) |
 | [0771-jewels-and-stones](https://github.com/yarasuharsha/Leetcode/tree/master/0771-jewels-and-stones) |
+| [3110-score-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3110-score-of-a-string) |
 ## Database
 |  |
 | ------- |
