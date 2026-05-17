@@ -23,10 +23,7 @@ class Solution {
                 }
             }
         }
-        if(freq.isEmpty()){
-            return true;
-        }
-        return false;
+       return freq.isEmpty();
         
     }
 }
