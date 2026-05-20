@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yarasuharsha/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [3884-first-matching-character-from-both-ends](https://github.com/yarasuharsha/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yarasuharsha/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3110-score-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3110-score-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yarasuharsha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3884-first-matching-character-from-both-ends](https://github.com/yarasuharsha/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Database
 |  |
 | ------- |
