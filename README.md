@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yarasuharsha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
 ## Hash Table
 |  |
 | ------- |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/yarasuharsha/Leetcode/tree/master/0389-find-the-difference) |
+| [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
 ## Two Pointers
 |  |
 | ------- |
@@ -135,4 +137,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
