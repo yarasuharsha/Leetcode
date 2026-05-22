@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yarasuharsha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yarasuharsha/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [3110-score-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3110-score-of-a-string) |
+| [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yarasuharsha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 | [3884-first-matching-character-from-both-ends](https://github.com/yarasuharsha/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## Database
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/yarasuharsha/Leetcode/tree/master/0258-add-digits) |
+| [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 ## Number Theory
 |  |
 | ------- |
