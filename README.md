@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
+| [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
 ## Hash Table
 |  |
 | ------- |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yarasuharsha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yarasuharsha/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3110-score-of-a-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yarasuharsha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
