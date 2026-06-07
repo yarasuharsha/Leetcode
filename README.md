@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/yarasuharsha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [2126-destroying-asteroids](https://github.com/yarasuharsha/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yarasuharsha/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0389-find-the-difference](https://github.com/yarasuharsha/Leetcode/tree/master/0389-find-the-difference) |
 | [0771-jewels-and-stones](https://github.com/yarasuharsha/Leetcode/tree/master/0771-jewels-and-stones) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/yarasuharsha/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yarasuharsha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
 ## Math
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/yarasuharsha/Leetcode/tree/master/0389-find-the-difference) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2126-destroying-asteroids](https://github.com/yarasuharsha/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yarasuharsha/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yarasuharsha/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -179,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Greedy
 |  |
 | ------- |
