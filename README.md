@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3340-check-balanced-string](https://github.com/yarasuharsha/Leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yarasuharsha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
+| [3612-process-string-with-special-operations-i](https://github.com/yarasuharsha/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/yarasuharsha/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 | [3894-traffic-signal-color](https://github.com/yarasuharsha/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Database
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0682-baseball-game](https://github.com/yarasuharsha/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
+| [3612-process-string-with-special-operations-i](https://github.com/yarasuharsha/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3894-traffic-signal-color](https://github.com/yarasuharsha/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Number Theory
 |  |
