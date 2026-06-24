@@ -103,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
+| [2000-reverse-prefix-of-word](https://github.com/yarasuharsha/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yarasuharsha/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3884-first-matching-character-from-both-ends](https://github.com/yarasuharsha/Leetcode/tree/master/3884-first-matching-character-from-both-ends) |
 ## String
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0709-to-lower-case](https://github.com/yarasuharsha/Leetcode/tree/master/0709-to-lower-case) |
 | [0771-jewels-and-stones](https://github.com/yarasuharsha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/yarasuharsha/Leetcode/tree/master/1189-maximum-number-of-balloons) |
+| [2000-reverse-prefix-of-word](https://github.com/yarasuharsha/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yarasuharsha/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
 | [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -220,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0682-baseball-game](https://github.com/yarasuharsha/Leetcode/tree/master/0682-baseball-game) |
+| [2000-reverse-prefix-of-word](https://github.com/yarasuharsha/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 ## Prefix Sum
 |  |
 | ------- |
