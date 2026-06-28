@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/yarasuharsha/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yarasuharsha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yarasuharsha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/yarasuharsha/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
@@ -56,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yarasuharsha/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yarasuharsha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yarasuharsha/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3894-traffic-signal-color](https://github.com/yarasuharsha/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Binary Search
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0389-find-the-difference](https://github.com/yarasuharsha/Leetcode/tree/master/0389-find-the-difference) |
+| [0628-maximum-product-of-three-numbers](https://github.com/yarasuharsha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
