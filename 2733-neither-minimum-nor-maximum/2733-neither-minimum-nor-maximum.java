@@ -1,13 +1,25 @@
 class Solution {
     public int findNonMinOrMax(int[] nums) {
+        int min=Integer.MAX_VALUE;
+        int max=Integer.MIN_VALUE;
         if(nums.length<=2){
             return -1;
         }
-        Arrays.sort(nums);
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]>max){
+                max=nums[i];
+            }
+            if(nums[i]<min){
+                min=nums[i];
+            }
+        }
+        for(int i:nums){
+            if(i!=max && i!=min){
+                return i;
+            }
+        }
+        return -1;
 
-        return nums[1];
         
-        
-
     }
 }
