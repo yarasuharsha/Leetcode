@@ -15,15 +15,7 @@ class Solution {
                 count--;
             }
         }
-        int c=0;
-        for(int i=0;i<nums.length;i++){
-            if(nums[i]==element){
-                c++;
-            }
-        }
-        if(c>nums.length/2){
-            return element;
-        }
-        return -1;
+       
+        return element;
     }
 }
