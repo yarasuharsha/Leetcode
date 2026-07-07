@@ -68,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yarasuharsha/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yarasuharsha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yarasuharsha/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yarasuharsha/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/yarasuharsha/Leetcode/tree/master/3894-traffic-signal-color) |
 ## Binary Search
 |  |
