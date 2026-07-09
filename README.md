@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yarasuharsha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yarasuharsha/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1323-maximum-69-number](https://github.com/yarasuharsha/Leetcode/tree/master/1323-maximum-69-number) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yarasuharsha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yarasuharsha/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yarasuharsha/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
+| [1323-maximum-69-number](https://github.com/yarasuharsha/Leetcode/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/yarasuharsha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/yarasuharsha/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yarasuharsha/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
