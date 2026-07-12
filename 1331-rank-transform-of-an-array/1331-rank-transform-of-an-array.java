@@ -8,10 +8,7 @@ class Solution {
         HashMap<Integer,Integer> map=new HashMap<>();
         int rank=1;
         for(int i=0;i<arr.length;i++){
-            if(map.containsKey(copy[i])){
-                map.put(copy[i],map.get(copy[i-1]));
-            }
-            else{
+            if(!map.containsKey(copy[i])){
                 map.put(copy[i],rank);
                 rank++;
             }
