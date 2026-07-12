@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
 | [1207-unique-number-of-occurrences](https://github.com/yarasuharsha/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/yarasuharsha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1572-matrix-diagonal-sum](https://github.com/yarasuharsha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [1833-maximum-ice-cream-bars](https://github.com/yarasuharsha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0771-jewels-and-stones](https://github.com/yarasuharsha/Leetcode/tree/master/0771-jewels-and-stones) |
 | [1189-maximum-number-of-balloons](https://github.com/yarasuharsha/Leetcode/tree/master/1189-maximum-number-of-balloons) |
 | [1207-unique-number-of-occurrences](https://github.com/yarasuharsha/Leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1331-rank-transform-of-an-array](https://github.com/yarasuharsha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/yarasuharsha/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yarasuharsha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yarasuharsha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1051-height-checker](https://github.com/yarasuharsha/Leetcode/tree/master/1051-height-checker) |
+| [1331-rank-transform-of-an-array](https://github.com/yarasuharsha/Leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/yarasuharsha/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/yarasuharsha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
 | [2126-destroying-asteroids](https://github.com/yarasuharsha/Leetcode/tree/master/2126-destroying-asteroids) |
