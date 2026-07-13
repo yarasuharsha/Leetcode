@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yarasuharsha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2126-destroying-asteroids](https://github.com/yarasuharsha/Leetcode/tree/master/2126-destroying-asteroids) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/yarasuharsha/Leetcode/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yarasuharsha/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/yarasuharsha/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yarasuharsha/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1323-maximum-69-number](https://github.com/yarasuharsha/Leetcode/tree/master/1323-maximum-69-number) |
 | [1903-largest-odd-number-in-string](https://github.com/yarasuharsha/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/yarasuharsha/Leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yarasuharsha/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yarasuharsha/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/yarasuharsha/Leetcode/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3894-traffic-signal-color](https://github.com/yarasuharsha/Leetcode/tree/master/3894-traffic-signal-color) |
