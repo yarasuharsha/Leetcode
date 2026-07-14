@@ -9,11 +9,11 @@ class Solution {
         }
         boolean bool=true;
         for(int i=0;i<candies.length;i++){
-            if((candies[i]+extraCandies)<max){
-               list.add(false);
+            if((candies[i]+extraCandies)>=max){
+               list.add(true);
             }
             else{
-                list.add(true);
+                list.add(false);
             }
         }
         return list ;
