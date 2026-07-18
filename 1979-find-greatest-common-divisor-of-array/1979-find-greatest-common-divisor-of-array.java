@@ -1,8 +1,8 @@
 class Solution {
     public int findGCD(int[] nums) {
-        int min=Integer.MAX_VALUE;
         int max=Integer.MIN_VALUE;
-        for(int i:nums){
+        int min=Integer.MAX_VALUE;
+        for(int i : nums){
             if(i>max){
                 max=i;
             }
@@ -10,21 +10,22 @@ class Solution {
                 min=i;
             }
         }
-        while(min>0 && max>0){
-            if(max>min){
-            max=max%min;
+        return gcd(max,min);
+    }
+    public static int gcd(int a,int b){
+        while(a>0 && b>0){
+            if(a>b){
+                a=a%b;
             }
             else{
-                min=min%max;
+                b=b%a;
             }
-
         }
-        if(min==0){
-            return max;
+        if(a==0){
+            return b;
         }
         else{
-            return min;
+            return a;
         }
-      
     }
 }
