@@ -12,7 +12,7 @@ class Solution {
             else if(s.equals("UP")){
                 i-=n;
             }
-            else{
+            else if(s.equals("DOWN")){
                 i+=n;
             }
             
