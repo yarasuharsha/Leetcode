@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2574-left-and-right-sum-differences](https://github.com/yarasuharsha/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yarasuharsha/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
+| [3248-snake-in-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/yarasuharsha/Leetcode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yarasuharsha/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3731-find-missing-elements](https://github.com/yarasuharsha/Leetcode/tree/master/3731-find-missing-elements) |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3110-score-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3110-score-of-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/yarasuharsha/Leetcode/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3248-snake-in-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3340-check-balanced-string](https://github.com/yarasuharsha/Leetcode/tree/master/3340-check-balanced-string) |
 | [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3541-find-most-frequent-vowel-and-consonant](https://github.com/yarasuharsha/Leetcode/tree/master/3541-find-most-frequent-vowel-and-consonant) |
@@ -207,6 +209,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0258-add-digits](https://github.com/yarasuharsha/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/yarasuharsha/Leetcode/tree/master/0682-baseball-game) |
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
+| [3248-snake-in-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3612-process-string-with-special-operations-i](https://github.com/yarasuharsha/Leetcode/tree/master/3612-process-string-with-special-operations-i) |
 | [3823-reverse-letters-then-special-characters-in-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3823-reverse-letters-then-special-characters-in-a-string) |
