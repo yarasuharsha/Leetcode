@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/yarasuharsha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/yarasuharsha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/yarasuharsha/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/yarasuharsha/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yarasuharsha/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/yarasuharsha/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
 | [0389-find-the-difference](https://github.com/yarasuharsha/Leetcode/tree/master/0389-find-the-difference) |
+| [0832-flipping-an-image](https://github.com/yarasuharsha/Leetcode/tree/master/0832-flipping-an-image) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yarasuharsha/Leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
 |  |
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/yarasuharsha/Leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/yarasuharsha/Leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0832-flipping-an-image](https://github.com/yarasuharsha/Leetcode/tree/master/0832-flipping-an-image) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
 | [2000-reverse-prefix-of-word](https://github.com/yarasuharsha/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/yarasuharsha/Leetcode/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -209,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/yarasuharsha/Leetcode/tree/master/0258-add-digits) |
 | [0682-baseball-game](https://github.com/yarasuharsha/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/yarasuharsha/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
 | [3248-snake-in-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/3248-snake-in-matrix) |
 | [3498-reverse-degree-of-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -267,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0832-flipping-an-image](https://github.com/yarasuharsha/Leetcode/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/yarasuharsha/Leetcode/tree/master/1572-matrix-diagonal-sum) |
 | [3033-modify-the-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/3033-modify-the-matrix) |
