@@ -1,16 +1,14 @@
 class Solution {
     public int findDuplicate(int[] nums) {
-       HashMap<Integer,Integer> Map=new HashMap<>();
-       for(int i: nums){
-        if(Map.containsKey(i)){
-            Map.put(i,Map.get(i)+1);
-        }
-        else{
-            Map.put(i,1);
-        }
+       int arr[]=new int[nums.length];
+       for(int i=0;i<arr.length;i++){
+        arr[i]=0;
        }
-       for(int i : nums){
-        if(Map.get(i)>=2){
+       for(int i=0;i<nums.length;i++){
+            arr[nums[i]]++;
+       }
+       for(int i=0;i<nums.length;i++){
+        if(arr[i]>=2){
             return i;
         }
        }
