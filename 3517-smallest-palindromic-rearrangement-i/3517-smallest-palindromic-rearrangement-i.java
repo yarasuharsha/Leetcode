@@ -2,7 +2,6 @@ class Solution {
     public String smallestPalindrome(String s) {
         int arr[]=new int[26];
         char ans[]=new char[s.length()];
-        char arrstr[]=s.toCharArray();
         for(int i=0;i<s.length();i++){
             char ch=s.charAt(i);
             arr[ch-'a']++;
@@ -14,7 +13,7 @@ class Solution {
             }
         }
         int left=0;
-        int right=arrstr.length-1;
+        int right=s.length()-1;
         for(int i=0;i<26;i++){
            while(arr[i]>=2){
             ans[left]=(char)(i+'a');
