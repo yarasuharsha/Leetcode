@@ -1,47 +1,58 @@
 class Solution {
     public String dayOfTheWeek(int day, int month, int year) {
-
-        String arrdays[]={"Friday","Saturday","Sunday","Monday","Tuesday","Wednesday","Thursday"};
         int total=day;
-         for(int i=1971;i<year;i++){
-            total+=leapyear(i);
-        }
+        int monthends[]={31,28,31,30,31,30,31,31,30,31,30,31};
+        if(leapyear(year) && month>2){
+                total++;
+            }
         for(int i=1;i<month;i++){
-            if(i%2==1 && i!=2 && i<=7){
-            total+=31;
-            }
-            else if(i%2==0 && i!=2 && i<=7){
-                total+=30;
-            }
-            else if(i%2==0 && i>7){
-                total+=31;
-            }
-            else if(i%2!=0 && i>7){
-                total+=30;
-            }
-            else if(i==2){
-                total+=leapyearfeb(year);
-            }
-
+            total+=monthends[i-1];
+            
         }
-       
-        return arrdays[(total-1)%7];
+        for(int i=1971;i<year;i++){
+            if(leapyear(i)){
+                total+=366;
+            }
+            else{
+                total+=365;
+            }
+        }
+        int ans=(total-1)%7;
+
+        switch(ans){
+            case 0:
+                return "Friday";
+               
+            case 1:
+                return "Saturday";
+            case 2:
+                return "Sunday";
+                
+            case 3:
+                return "Monday";
+               
+            case 4:
+                return "Tuesday";
+               
+            case 5:
+                return "Wednesday";
+                
+            case 6:
+                return "Thursday";
+                
+            default:
+                return "";
+        }
+     
+
 
     }
-    public static int leapyearfeb(int year){
-        if((year%4==0 && year%100!=0) || year%400==0){
-            return 29;
+    public static boolean leapyear(int year){
+        if((year%4==0 && year%100!=0)||year%400==0){
+            return true;
         }
         else{
-            return 28;
-        }
-    }
-    public static int leapyear(int year){
-        if(year%4==0 && year%100!=0 || year%400==0){
-            return 366;
-        }
-        else{
-            return 365;
+            return false;
         }
     }
 }
