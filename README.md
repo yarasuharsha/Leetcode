@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/yarasuharsha/Leetcode/tree/master/0189-rotate-array) |
 | [0258-add-digits](https://github.com/yarasuharsha/Leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/yarasuharsha/Leetcode/tree/master/0268-missing-number) |
+| [0509-fibonacci-number](https://github.com/yarasuharsha/Leetcode/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/yarasuharsha/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1185-day-of-the-week](https://github.com/yarasuharsha/Leetcode/tree/master/1185-day-of-the-week) |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yarasuharsha/Leetcode/tree/master/1281-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -331,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yarasuharsha/Leetcode/tree/master/0053-maximum-subarray) |
+| [0509-fibonacci-number](https://github.com/yarasuharsha/Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
@@ -339,4 +341,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yarasuharsha/Leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yarasuharsha/Leetcode/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/yarasuharsha/Leetcode/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
