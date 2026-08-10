@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/yarasuharsha/Leetcode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/yarasuharsha/Leetcode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/yarasuharsha/Leetcode/tree/master/2733-neither-minimum-nor-maximum) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/yarasuharsha/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3033-modify-the-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/3033-modify-the-matrix) |
 | [3248-snake-in-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/3248-snake-in-matrix) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2000-reverse-prefix-of-word](https://github.com/yarasuharsha/Leetcode/tree/master/2000-reverse-prefix-of-word) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/yarasuharsha/Leetcode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2710-remove-trailing-zeros-from-a-string](https://github.com/yarasuharsha/Leetcode/tree/master/2710-remove-trailing-zeros-from-a-string) |
+| [2828-check-if-a-string-is-an-acronym-of-words](https://github.com/yarasuharsha/Leetcode/tree/master/2828-check-if-a-string-is-an-acronym-of-words) |
 | [2942-find-words-containing-character](https://github.com/yarasuharsha/Leetcode/tree/master/2942-find-words-containing-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/yarasuharsha/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/yarasuharsha/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
