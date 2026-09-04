@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/yarasuharsha/Leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/yarasuharsha/Leetcode/tree/master/0682-baseball-game) |
 | [0832-flipping-an-image](https://github.com/yarasuharsha/Leetcode/tree/master/0832-flipping-an-image) |
+| [0860-lemonade-change](https://github.com/yarasuharsha/Leetcode/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/yarasuharsha/Leetcode/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/yarasuharsha/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
@@ -343,6 +344,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/yarasuharsha/Leetcode/tree/master/0011-container-with-most-water) |
 | [0455-assign-cookies](https://github.com/yarasuharsha/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yarasuharsha/Leetcode/tree/master/0561-array-partition) |
+| [0860-lemonade-change](https://github.com/yarasuharsha/Leetcode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/yarasuharsha/Leetcode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/yarasuharsha/Leetcode/tree/master/1323-maximum-69-number) |
 | [1833-maximum-ice-cream-bars](https://github.com/yarasuharsha/Leetcode/tree/master/1833-maximum-ice-cream-bars) |
