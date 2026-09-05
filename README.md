@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/yarasuharsha/Leetcode/tree/master/0035-search-insert-position) |
 | [0048-rotate-image](https://github.com/yarasuharsha/Leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/yarasuharsha/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yarasuharsha/Leetcode/tree/master/0055-jump-game) |
 | [0073-set-matrix-zeroes](https://github.com/yarasuharsha/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/yarasuharsha/Leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/yarasuharsha/Leetcode/tree/master/0088-merge-sorted-array) |
@@ -342,6 +343,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/yarasuharsha/Leetcode/tree/master/0011-container-with-most-water) |
+| [0055-jump-game](https://github.com/yarasuharsha/Leetcode/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/yarasuharsha/Leetcode/tree/master/0455-assign-cookies) |
 | [0561-array-partition](https://github.com/yarasuharsha/Leetcode/tree/master/0561-array-partition) |
 | [0860-lemonade-change](https://github.com/yarasuharsha/Leetcode/tree/master/0860-lemonade-change) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/yarasuharsha/Leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/yarasuharsha/Leetcode/tree/master/0055-jump-game) |
 | [0509-fibonacci-number](https://github.com/yarasuharsha/Leetcode/tree/master/0509-fibonacci-number) |
 ## Heap (Priority Queue)
 |  |
